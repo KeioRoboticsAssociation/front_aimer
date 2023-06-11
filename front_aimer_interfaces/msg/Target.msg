@@ -1,0 +1,4 @@
+float64 distance
+float64 angle
+bool is_obstacle
+bool is_targeted
